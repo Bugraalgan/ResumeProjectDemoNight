@@ -46,7 +46,7 @@ Kullanıcı Arayüzü (Public)
 
 •Admin panel ile kod bilgisine gerek olmadan içerik yönetimi sağlamak
 
-Ekran Görüntüleri
+📸 Ekran Görüntüleri
 <img width="1889" height="962" alt="image" src="https://github.com/user-attachments/assets/866ec3b5-4593-434a-b40b-6dc2e6ae74a9" />
 <img width="1884" height="961" alt="image" src="https://github.com/user-attachments/assets/e5e4c13a-98ce-48c3-9285-fc3793caa0ff" />
 <img width="1891" height="965" alt="image" src="https://github.com/user-attachments/assets/763e70db-c4d1-4854-9243-713caa44f0e0" />
